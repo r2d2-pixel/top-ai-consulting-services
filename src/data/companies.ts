@@ -46,10 +46,10 @@ export const companies: Company[] = [
     website: "https://www.tensorway.com",
     tagline: "AI consulting services with a documented 11-step scope, not a vague retainer",
     description:
-      "Tensorway split off in 2019 from a longer-running Alicante, Spain software house with roughly 25 years of prior delivery history, and now runs as a standalone practice of 20-50 deep learning architects, MLOps engineers, ML engineers, and QAs. Its service scope is unusually specific for a firm this size: an 11-step process covering challenge understanding, data profiling, feasibility study, and model validation, delivered by the same team that later builds whatever gets recommended. The firm frames its own value proposition directly, finding use cases with a real return, not the ones that just sound impressive.",
+      "Tensorway split off in 2019 from a longer-running Alicante, Spain software house with roughly 25 years of prior delivery history, and now runs as a standalone practice of 50+ deep learning architects, MLOps engineers, ML engineers, and QAs. Its service scope is unusually specific for a firm this size: an 11-step process covering challenge understanding, data profiling, feasibility study, and model validation, delivered by the same team that later builds whatever gets recommended. The firm frames its own value proposition directly, finding use cases with a real return, not the ones that just sound impressive.",
     founded: 2019,
     hq: "Alicante, Spain",
-    teamSize: "20-50",
+    teamSize: "50+",
     rating: 4.8,
     badges: ["ai-consulting", "generative-ai", "machine-learning", "data-engineering", "mlops"],
     bestFor: "Buyers who want a clearly scoped service, not an open-ended retainer",
@@ -67,7 +67,7 @@ export const companies: Company[] = [
       "Recognized by Clutch, PMI, Fortune, and Manifest, per the company's own materials.",
     ],
     cons: [
-      "A 20-50 person team limits how many large engagements can run at once",
+      "A 50+ person team limits how many large engagements can run at once",
       "No published price list, so the actual service cost only firms up after a scoping call",
     ],
     useCases: [
